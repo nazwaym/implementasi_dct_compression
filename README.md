@@ -1,5 +1,16 @@
 # 🖼️ Kompresi Gambar dengan Algoritma DCT (JPEG Compression)
 
+## 👥 Kelompok 3
+
+### Nama Anggota Kelompok
+
+| Nama                   | NIM        |
+| ---------------------- | ---------- |
+| Nazwa Yulianti Munjana | 1237050007 |
+| Sayyid Maula           | [Isi NIM]  |
+| Tri Febriansyah        | [Isi NIM]  |
+
+
 > **Praktikum Sistem Multimedia** — Implementasi Discrete Cosine Transform (DCT) untuk kompresi gambar berbasis standar JPEG.
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python&logoColor=white)](https://python.org)
