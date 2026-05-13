@@ -183,13 +183,6 @@ pip install numpy pandas matplotlib Pillow scipy scikit-image
 
 ---
 
-## 📚 Referensi
-
-1. Wallace, G.K. (1991). *"The JPEG Still Picture Compression Standard"*, Communications of the ACM, 34(4), 30-44.
-2. ITU-T Recommendation T.81 (1992). *Information Technology — Digital Compression and Coding of Continuous-tone Still Images*.
-3. Pennebaker, W.B. & Mitchell, J.L. (1993). *JPEG: Still Image Data Compression Standard*. Van Nostrand Reinhold.
-
----
 
 ## 📝 Limitasi
 
