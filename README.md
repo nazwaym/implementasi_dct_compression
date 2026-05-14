@@ -7,8 +7,8 @@
 | Nama                   | NIM        |
 | ---------------------- | ---------- |
 | Nazwa Yulianti Munjana | 1237050007 |
-| Sayyid Maula           | [Isi NIM]  |
-| Tri Febriansyah        | [Isi NIM]  |
+| Sayyid Maulana         | 1237050126 |
+| Tri Febriansyah        | 1237050094 |
 
 
 > **Praktikum Sistem Multimedia** — Implementasi Discrete Cosine Transform (DCT) untuk kompresi gambar berbasis standar JPEG.
